@@ -48,7 +48,7 @@ Note: **OVTools** is an exception to the above. OVTools is a **freely usable too
 Some attendees asked about the music used in the demonstration videos.
 For those who are curious, the playlist used during the recordings is shared below as **creative context only**:
 
-* Playlist: [link]
+* Playlist: [link](https://www.youtube.com/playlist?list=PLiKn7KjKRX3N9MLK8_VPSzz4CHN2PeG-z)
 
 Note: the playlist is shared purely as background context and is **not part of the technical content** of the session.
 
