@@ -63,3 +63,12 @@ Feedback, suggestions, and ideas are welcome:
 * Propose scenarios or use cases not yet covered
 
 Thank you for attending and for continuing the technical conversation.
+
+---
+
+## Additional Resources (Not Covered in This Session)
+
+These materials provide **additional depth and practical examples** around balance-SLB configuration, including helper scripts and detailed walkthroughs.
+
+* How to configure OVS balance-slb bonding on OpenShift agent-based deployments: [link](https://access.redhat.com/articles/7136645)
+* How to configure OVS balance-slb bonding on OpenShift HCP worker nodes: [link](https://access.redhat.com/articles/7136647)
