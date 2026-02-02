@@ -37,7 +37,7 @@ An automated documentation generator for OpenShift clusters, with emphasis on **
 ## About the demo videos
 
 The demonstration videos were created to illustrate **real-world workflows**, technical decision points, and practical outcomes.
-They are intended for **internal learning**, **internal technical discussions**, and **internal reference only**, and are not meant for public distribution or external use.
+They are intended for **internal learning**, **internal technical discussions**, and **internal reference only**, and are **not meant for public distribution or external use**.
 
 Note: **OVTools** is an exception to the above. OVTools is a **freely usable tool**, and its usage and sharing are permitted according to its own repository license and documentation.
 
